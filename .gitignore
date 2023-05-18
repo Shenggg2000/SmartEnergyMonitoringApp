@@ -1,0 +1,5 @@
+**/node_modules/
+server/key.json
+server/key2.json
+server/config.js
+app/android/app/google-services.json

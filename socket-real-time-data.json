@@ -1,0 +1,14 @@
+{
+  "Sockets": {
+    "Socket 1": {
+      "state": 0,
+      "type": "C1",
+      "warning": -1
+    },
+    "Socket 2": {
+      "state": 0,
+      "type": "C1",
+      "warning": 0
+    }
+  }
+}
